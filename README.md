@@ -23,3 +23,11 @@
     Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.
 
     In this course, you'll build a set of colored markers. You'll learn different ways to set color values and how to pair colors with each other.
+    
+    ![CSS Color Markers](/assets/images/CSS_Color_Markers.png)
+
+4. Learn HTML Forms by Building a Registration Form
+
+    You can use HTML forms to collect information from people who visit your webpage.
+
+    In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page.
